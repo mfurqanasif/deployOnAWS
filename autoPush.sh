@@ -1,7 +1,7 @@
 #!/bin/bash/
 
 echo "Task 2"
-echo" Creating folder "
+echo "Creating folder "
 mkdir Task_2
 echo "changing dir"
 echo  "creating file "
