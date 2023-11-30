@@ -12,5 +12,5 @@ cd ..
 git add . 
 git commit -m "adding task 2 on gitHub using bash file"
 git push origin main
-echo "mfurqanasif"
-echo "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"
+<< "mfurqanasif"
+<< "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"
